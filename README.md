@@ -8,10 +8,10 @@ This is an attempt to detect such hoaxes using simple NLP techniques.
 
 ## Overview
 This Neural model was trained on a GPU provided by kaggle.
-It uses pre-trained GloVe embeddings which can be downloaded from https://nlp.stanford.edu/projects/glove/ or https://www.kaggle.com/jdpaletto/glove-global-vectors-for-word-representation
+It uses pre-trained GloVe embeddings which can be downloaded from [here](https://nlp.stanford.edu/projects/glove/) or [here.](https://www.kaggle.com/jdpaletto/glove-global-vectors-for-word-representation)
 
 ## Dataset
-This dataset(~41MB zip) can be downloaded from here => https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+This dataset(~41MB zip) can be downloaded from [here.](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 
 ## Dependencies
 * pip install tensorflow
@@ -19,4 +19,4 @@ This dataset(~41MB zip) can be downloaded from here => https://www.kaggle.com/cl
 * pip install nltk
 
 ## Acknowlegdements
-* GloVe: Global Vectors for Word Representation => https://nlp.stanford.edu/projects/glove/
+* [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
